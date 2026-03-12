@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+!.streamlit/config.toml
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Data files (optional, keep if you want them in repo)
+# train.csv
+# test.csv
